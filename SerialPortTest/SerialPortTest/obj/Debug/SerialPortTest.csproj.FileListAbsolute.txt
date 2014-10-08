@@ -1,0 +1,6 @@
+E:\Lucas\Arduino\SerialPortTest\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.exe.config
+E:\Lucas\Arduino\SerialPortTest\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.exe
+E:\Lucas\Arduino\SerialPortTest\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.pdb
+E:\Lucas\Arduino\SerialPortTest\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.csprojResolveAssemblyReference.cache
+E:\Lucas\Arduino\SerialPortTest\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.exe
+E:\Lucas\Arduino\SerialPortTest\SerialPortTest\SerialPortTest\obj\Debug\SerialPortTest.pdb
